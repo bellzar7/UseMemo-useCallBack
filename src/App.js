@@ -1,11 +1,11 @@
 
 import './App.css';
-import UseMemo from "./Modules/UseMemo/UseMemo";
+import UseCallBack from "./Modules/UseCallBack/UseCallBack";
 
 function App() {
   return (
     <div className="App">
-<UseMemo/>
+        <UseCallBack/>
     </div>
   );
 }
